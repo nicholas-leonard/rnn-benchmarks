@@ -32,7 +32,7 @@ This LSTM implementation used for these benchmarks does not use peephole connect
 | Library | Compile (s) | Train (µs) | Forward only (µs) |
 | ------------- | ------------- | ------------- | ------------- |
 | Theano | 7.46 | 289.6 | 99.1 |
-| Torch  | 0.03 | 434.4 | 99.9 |
+| Torch  | *0.03* | 434.4 | 99.9 |
 | TensorFlow | 3.91 | 820.0 | 266.7 |
 
 
